@@ -12,3 +12,4 @@ Liquidations that actually happened, not levels modelled from open interest. Wha
 - Whale positions: https://rawtape.io/whale-positions
 - X: https://x.com/rawtapeio
 - YouTube: https://www.youtube.com/@rawtapeio
+- LinkedIn: https://www.linkedin.com/company/146935863
